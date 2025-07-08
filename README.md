@@ -2,7 +2,7 @@
 
 This repository showcases an analytical Power BI dashboard built for the **Indian Premier League (IPL) 2010** season. The dashboard provides deep insights into team performances, top players, and match outcomes using interactive visuals and DAX measures.
 
-![IPL Dashboard]<!-- Uploading "Screenshot 2025-07-09 000420.png"... -->
+![IPL Dashboard]<img width="1453" height="778" alt="Image" src="https://github.com/user-attachments/assets/ba9ac9e2-b620-4e15-9be6-c94fc39c476d" />
 
 ---
 
